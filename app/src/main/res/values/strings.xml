@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SimpleClock</string>
+    <string name="stop_watch">StopWatch</string>
+    <string name="count_down">CountDown</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="clear">Clear</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="minutes_hint">MM</string>
+    <string name="seconds_hint">SS</string>
+    <string name="resume">Resume</string>
+    <string name="stopwatch_time_format">%02d:%02d:%02d:%03d</string>
+    <string name="end_message">Time is up</string>
+</resources>
